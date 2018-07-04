@@ -27,3 +27,7 @@ class Dog
 
 end
 
+#TESTING 
+  Dog.new("Pluto")
+  Dog.new("Fido")
+  Dog.new("Maddy")
