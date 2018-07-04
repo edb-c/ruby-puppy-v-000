@@ -31,4 +31,6 @@ end
   Dog.new("Pluto")
   Dog.new("Fido")
   Dog.new("Maddy")
+  Dog.clear_all
   Dog.all
+  
